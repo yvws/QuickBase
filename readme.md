@@ -17,6 +17,6 @@ dependencies {
     implementation 'com.github.yvws:QuickBase:+'
     
     // Or specify a specific version
-	implementation 'com.github.yvws:QuickBase:1.0.1'
+	implementation 'com.github.yvws:QuickBase:1.0.2'
 }
 ```
