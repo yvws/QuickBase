@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=QuickBase-1.0.9.aar"
-  - mvn install:install-file $FILE -DgroupId=com.quick.base -DartifactId=QuickBase -Dversion=1.0.9 -Dpackaging=aar -DpomFile=pom.xml
+  - FILE="-Dfile=QuickBase-1.1.0.aar"
+  - mvn install:install-file $FILE -DgroupId=com.quick.base -DartifactId=QuickBase -Dversion=1.1.0 -Dpackaging=aar -DpomFile=pom.xml
